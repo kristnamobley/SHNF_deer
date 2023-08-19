@@ -1,5 +1,4 @@
-Python Project: SHNF_Deer
-
+Python Project:
 Sam Houston National Forest Deer Data Analysis using google colab
 
 1. I uploaded the data into google colab and imported necessary libraries.
